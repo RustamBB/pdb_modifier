@@ -10,7 +10,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Rustam',
     author_email='rustam2592@gmail.com',
-    url='https://github.com/yourusername/pdb_modifier',  # (Optional) Add a repository link
+    url='https://github.com/RustamBB/pdb_modifier',  # (Optional) Add a repository link
     install_requires=[],  # Add any dependencies your package has
     classifiers=[
         'Programming Language :: Python :: 3',
